@@ -7,7 +7,7 @@ I'm a passionate Machine Learning Engineer with over 4 years of experience in cr
 - 🔭 **Current Focus:** Enhancing LLMs with **LangChain** and **RAG Pipelines** | Building Computer Vision models.
 - 🌱 **Learning:** Advanced deep learning techniques and optimizing computer vision architectures.
 - 💬 **Let's chat about:** NLP, Computer Vision, LLM fine-tuning, AI research, or anything AI-related!
-- 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/lesliekperegbeyi) | [Twitter](https://twitter.com/leslie_ml)
+- 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/lesliekperegbeyi) | [Twitter](https://twitter.com/Ayirikperegbeyi)
 - ⚡ **Fun fact:** When I'm not training models, I'm either exploring new Nigerian recipes or sharing AI insights.
 
 ---
