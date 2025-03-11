@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Leslie!
 
-### 🚀 Machine Learning Engineer
+### 🚀 Machine Learning Engineer || Full Stack AI Developer
 
 I'm a passionate Machine Learning Engineer with over 4 years of experience in crafting AI-driven solutions. My expertise lies at the intersection of **Natural Language Processing (NLP)** and **Computer Vision**, where I develop and fine-tune models that push the boundaries of what AI can do. From **Conversational AI** to **Object Detection**, I'm always exploring new ways to apply cutting-edge technologies to solve real-world problems.
 
